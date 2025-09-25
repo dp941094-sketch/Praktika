@@ -26,4 +26,6 @@
 | Среда       | Пары                    |
 | Четверг     | Пары                |
 | Пятница     | Пары            |
+
+
 [GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Лого GitHub")
